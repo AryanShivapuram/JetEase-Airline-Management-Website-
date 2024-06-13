@@ -27,15 +27,15 @@ The Airline Management and Booking App is a comprehensive website that is design
   
   ```
   git clone https://github.com/AryanShivapuram/JetEase-Airline-Management-Website-.git
-  cd airline-management-website/
+  cd JetEase-Airline-Management-Website-/
   ```
   
 ### Getting Flights Database
 
 - If your MongoDB server does not eun on `port 27017`, please replace the port with your own port.
-- In the terminal, change the porject's folder is not.
+- In the terminal, change the current directory to porject's folder if not.
   ```
-  cd airline-management-website/
+  cd JetEase-Airline-Management-Website-/
   ```
 - Now install the Node Packages
   ```
