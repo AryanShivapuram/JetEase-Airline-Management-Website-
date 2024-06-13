@@ -2,7 +2,7 @@
 ## Airline Management Website
 
 ## Project Description
-The Airline Management and Booking App is a comprehensive website that is designed to streamline flight scheduling, seat reservations, and customer interactions, the app offers features such as real-time flight status updates, secure payment processing using Razorpay API, and personalized booking options, enhancing the overall travel experience for users. The website is built using HTML, CSS, JavaScript, EJS, Express, Node.js, and MongoDB.
+The Airline Management and Booking App is a comprehensive website that is designed to streamline flight scheduling, flight booking and user interface, the app offers features such as real-time flight status updates, secure payment processing using Razorpay API, and personalized booking options, enhancing the overall travel experience for users. The website is built using HTML, CSS, JavaScript, EJS, Express, Node.js, and MongoDB.
 
 ## Features
 - **Home Page**: Overview of the airline services and features.
@@ -10,6 +10,7 @@ The Airline Management and Booking App is a comprehensive website that is design
 - **Payment Gateway**: Secure payment processing  integrating Razorpay Gateway.
 - **Passenger Details**: Form to fill in passenger information.
 - **Flight Status**: Check the current status of flights (departed, arrived, in air).
+- **Admin Portal**: Create new flughts using admin password.
 
 ## Tech Stack
 
@@ -32,7 +33,7 @@ The Airline Management and Booking App is a comprehensive website that is design
   
 ### Getting Flights Database
 
-- If your MongoDB server does not eun on `port 27017`, please replace the port with your own port.
+- If your MongoDB server does not run on `port 27017`, please replace the port with your own port in `db.ns` in root directory on the project.
 - In the terminal, change the current directory to porject's folder if not.
   ```
   cd JetEase-Airline-Management-Website-/
@@ -65,6 +66,8 @@ Payment: Proceed to the payment gateway for secure payment processing.
 Passenger Details: Fill in the required passenger details after booking the ticket.
 
 Flight Status: Check the current status of flights by navigating to the flight status page.
+
+Admin Portal: Navigate to the Admin Portal to create new flights, filing in data. the password for admin portal is 'cow'.
 
 ## Dependancies
 
