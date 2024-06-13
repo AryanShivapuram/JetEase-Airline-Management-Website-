@@ -51,7 +51,7 @@ The Airline Management and Booking App is a comprehensive website that is design
   ```
   node index.js
   ```
-- Go to `http://localhost:3000/` to enrich your life!!
+- Go to `http://localhost:3000/` to visit JetEase!!
 - To stop the server, do `CTRL + C` on your terminal
 
 ## Usage Instructions
