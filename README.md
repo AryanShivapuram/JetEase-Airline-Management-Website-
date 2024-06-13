@@ -26,7 +26,7 @@ The Airline Management and Booking App is a comprehensive website that is design
 - Clone the Project in your terminal. Type:
   
   ```
-  git clone https://github.com/your-username/airline-management-website.git
+  git clone https://github.com/AryanShivapuram/JetEase-Airline-Management-Website-.git
   cd airline-management-website/
   ```
   
